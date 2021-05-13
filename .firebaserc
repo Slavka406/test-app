@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "test-app-a463a"
+    "default": "test-app-a463a",
+    "staging": "test-app-dev-9a745",
+    "master": "test-app-a463a"
   }
 }
